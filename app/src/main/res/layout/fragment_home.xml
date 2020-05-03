@@ -17,12 +17,6 @@
         android:textAlignment="center"
         android:textSize="20sp" />
 
-    <TextView
-        android:id="@+id/fiore"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Fiore" />
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView1"
         android:layout_width="match_parent"
